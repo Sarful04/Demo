@@ -1,2 +1,2 @@
 # Demo
-I make this for my understanding of github
+I make this for my understanding of github.
